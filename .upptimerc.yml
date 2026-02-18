@@ -23,7 +23,9 @@ sites:
   - name: NZBgeek
     url: https://nzbgeek.info
   - name: DrunkenSlug
-    url: https://drunkenslug.com
+    url: drunkenslug.com
+    port: 443
+    check: "tcp-ping"
   - name: DogNZB
     url: https://dognzb.cr/login  
 
@@ -44,3 +46,7 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+workflowSchedule:
+  uptime: "*/15 * * * *"
+
