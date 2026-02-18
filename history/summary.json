@@ -160,7 +160,7 @@
     "timeMonth": 1460,
     "timeYear": 1460,
     "dailyMinutesDown": {
-      "2026-02-18": 625,
+      "2026-02-18": 670,
       "2026-02-17": 1440,
       "2026-02-16": 1020
     }
@@ -170,19 +170,19 @@
     "url": "https://dognzb.cr/login",
     "icon": "https://icons.duckduckgo.com/ip3/dognzb.cr.ico",
     "slug": "dog-nzb",
-    "status": "down",
-    "uptime": "97.77%",
-    "uptimeDay": "96.94%",
-    "uptimeWeek": "97.77%",
-    "uptimeMonth": "97.77%",
-    "uptimeYear": "97.77%",
-    "time": 878,
-    "timeDay": 796,
-    "timeWeek": 878,
-    "timeMonth": 878,
-    "timeYear": 878,
+    "status": "up",
+    "uptime": "96.39%",
+    "uptimeDay": "96.92%",
+    "uptimeWeek": "96.39%",
+    "uptimeMonth": "96.39%",
+    "uptimeYear": "96.39%",
+    "time": 877,
+    "timeDay": 801,
+    "timeWeek": 877,
+    "timeMonth": 877,
+    "timeYear": 877,
     "dailyMinutesDown": {
-      "2026-02-18": 0,
+      "2026-02-18": 44,
       "2026-02-17": 45,
       "2026-02-16": 24
     }
