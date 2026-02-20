@@ -25,8 +25,7 @@ sites:
     url: https://nzbgeek.info
   - name: DrunkenSlug
     url: https://drunkenslug.com
-    check: "http"
-    expectedStatusCode: 403
+    type: globalping
   - name: DogNZB
     url: https://dognzb.cr/login  
 
