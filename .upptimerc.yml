@@ -24,9 +24,10 @@ sites:
   - name: NZBgeek
     url: https://nzbgeek.info
   - name: DrunkenSlug
-    url: https://drunkenslug.com
+    url: drunkenslug.com
     port: 443
     check: "tcp-ping"
+    ipv6: true
   - name: DogNZB
     url: https://dognzb.cr/login  
 
