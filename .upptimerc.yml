@@ -20,7 +20,16 @@ sites:
   - name: abnzb
     url: https://abnzb.com/login
     __slug: /abnzb-review/
-    type: globalping
+    method: GET
+    headers:
+      - key: "User-Agent"
+        value: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+    body: "abnzb"
   - name: althub
     url: https://althub.co.za
     __slug: /althub-review/
@@ -34,6 +43,8 @@ sites:
   - name: binzb
     url: http://binzb.com/
     __slug: /binzb-review/
+    type: globalping
+    check: "tcp-ping"
   - name: birds-of-binaries
     url: https://birds-of-binaries.com/forum/index.php?dashboard/
     __slug: /birds-of-binaries-review/
@@ -112,6 +123,7 @@ sites:
     url: https://nzb.cat
     __slug: /nzbcat-review/
     type: globalping
+    check: "tcp-ping"
   - name: nzbcave
     url: https://www.nzbcave.co.uk/v3/index.php
     __slug: /nzbcave-review/
