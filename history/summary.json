@@ -95,18 +95,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/abnzb.com.ico",
     "slug": "abnzb",
     "status": "down",
-    "uptime": "1.45%",
-    "uptimeDay": "1.45%",
-    "uptimeWeek": "1.45%",
-    "uptimeMonth": "1.45%",
-    "uptimeYear": "1.45%",
+    "uptime": "0.27%",
+    "uptimeDay": "0.27%",
+    "uptimeWeek": "0.27%",
+    "uptimeMonth": "0.27%",
+    "uptimeYear": "0.27%",
     "time": 515,
     "timeDay": 515,
     "timeWeek": 515,
     "timeMonth": 515,
     "timeYear": 515,
     "dailyMinutesDown": {
-      "2026-02-21": 3
+      "2026-02-21": 19
     }
   },
   {
@@ -223,18 +223,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.brothers-of-usenet.net.ico",
     "slug": "brothers-of-usenet",
     "status": "down",
-    "uptime": "0.51%",
-    "uptimeDay": "0.51%",
-    "uptimeWeek": "0.51%",
-    "uptimeMonth": "0.51%",
-    "uptimeYear": "0.51%",
+    "uptime": "0.39%",
+    "uptimeDay": "0.39%",
+    "uptimeWeek": "0.39%",
+    "uptimeMonth": "0.39%",
+    "uptimeYear": "0.39%",
     "time": 4233,
     "timeDay": 4233,
     "timeWeek": 4233,
     "timeMonth": 4233,
     "timeYear": 4233,
     "dailyMinutesDown": {
-      "2026-02-21": 37
+      "2026-02-21": 52
     }
   },
   {
@@ -261,11 +261,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/drunkenslug.com.ico",
     "slug": "drunken-slug",
     "status": "up",
-    "uptime": "5.46%",
-    "uptimeDay": "24.17%",
-    "uptimeWeek": "5.46%",
-    "uptimeMonth": "5.46%",
-    "uptimeYear": "5.46%",
+    "uptime": "5.66%",
+    "uptimeDay": "25.21%",
+    "uptimeWeek": "5.66%",
+    "uptimeMonth": "5.66%",
+    "uptimeYear": "5.66%",
     "time": 799,
     "timeDay": 654,
     "timeWeek": 799,
@@ -339,18 +339,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/filesharingtalk.com.ico",
     "slug": "file-sharing-talk",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 84,
     "timeDay": 84,
     "timeWeek": 84,
     "timeMonth": 84,
     "timeYear": 84,
     "dailyMinutesDown": {
-      "2026-02-21": 37
+      "2026-02-21": 52
     }
   },
   {
@@ -359,18 +359,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/findnzb.net.ico",
     "slug": "findnzb",
     "status": "down",
-    "uptime": "0.14%",
-    "uptimeDay": "0.14%",
-    "uptimeWeek": "0.14%",
-    "uptimeMonth": "0.14%",
-    "uptimeYear": "0.14%",
+    "uptime": "0.08%",
+    "uptimeDay": "0.08%",
+    "uptimeWeek": "0.08%",
+    "uptimeMonth": "0.08%",
+    "uptimeYear": "0.08%",
     "time": 76,
     "timeDay": 76,
     "timeWeek": 76,
     "timeMonth": 76,
     "timeYear": 76,
     "dailyMinutesDown": {
-      "2026-02-21": 3
+      "2026-02-21": 18
     }
   },
   {
@@ -450,19 +450,19 @@
     "url": "https://newz-complex.org/",
     "icon": "https://icons.duckduckgo.com/ip3/newz-complex.org.ico",
     "slug": "newz-complex",
-    "status": "down",
-    "uptime": "91.73%",
-    "uptimeDay": "91.73%",
-    "uptimeWeek": "91.73%",
-    "uptimeMonth": "91.73%",
-    "uptimeYear": "91.73%",
-    "time": 901,
-    "timeDay": 901,
-    "timeWeek": 901,
-    "timeMonth": 901,
-    "timeYear": 901,
+    "status": "up",
+    "uptime": "69.24%",
+    "uptimeDay": "69.24%",
+    "uptimeWeek": "69.24%",
+    "uptimeMonth": "69.24%",
+    "uptimeYear": "69.24%",
+    "time": 922,
+    "timeDay": 922,
+    "timeWeek": 922,
+    "timeMonth": 922,
+    "timeYear": 922,
     "dailyMinutesDown": {
-      "2026-02-21": 3
+      "2026-02-21": 16
     }
   },
   {
@@ -489,18 +489,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/newznzb.info.ico",
     "slug": "newznzb",
     "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 37,
     "timeDay": 37,
     "timeWeek": 37,
     "timeMonth": 37,
     "timeYear": 37,
     "dailyMinutesDown": {
-      "2026-02-21": 36
+      "2026-02-21": 51
     }
   },
   {
@@ -671,11 +671,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nzbfriends.com.ico",
     "slug": "nzb-friends",
     "status": "up",
-    "uptime": "7.46%",
-    "uptimeDay": "7.46%",
-    "uptimeWeek": "7.46%",
-    "uptimeMonth": "7.46%",
-    "uptimeYear": "7.46%",
+    "uptime": "34.77%",
+    "uptimeDay": "34.77%",
+    "uptimeWeek": "34.77%",
+    "uptimeMonth": "34.77%",
+    "uptimeYear": "34.77%",
     "time": 157,
     "timeDay": 157,
     "timeWeek": 157,
@@ -720,7 +720,7 @@
     "timeMonth": 136,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2026-02-21": 36
+      "2026-02-21": 51
     }
   },
   {
@@ -747,18 +747,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nzbid.net.ico",
     "slug": "nzb-id",
     "status": "down",
-    "uptime": "0.07%",
-    "uptimeDay": "0.07%",
-    "uptimeWeek": "0.07%",
-    "uptimeMonth": "0.07%",
-    "uptimeYear": "0.07%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 188,
     "timeDay": 188,
     "timeWeek": 188,
     "timeMonth": 188,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2026-02-21": 36
+      "2026-02-21": 50
     }
   },
   {
@@ -875,18 +875,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nzbs.cc.ico",
     "slug": "nzbscc",
     "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 46,
     "timeDay": 46,
     "timeWeek": 46,
     "timeMonth": 46,
     "timeYear": 46,
     "dailyMinutesDown": {
-      "2026-02-21": 35
+      "2026-02-21": 50
     }
   },
   {
@@ -985,18 +985,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.oznzb.com.ico",
     "slug": "oznzb",
     "status": "down",
-    "uptime": "2.22%",
-    "uptimeDay": "2.22%",
-    "uptimeWeek": "2.22%",
-    "uptimeMonth": "2.22%",
-    "uptimeYear": "2.22%",
+    "uptime": "0.26%",
+    "uptimeDay": "0.26%",
+    "uptimeWeek": "0.26%",
+    "uptimeMonth": "0.26%",
+    "uptimeYear": "0.26%",
     "time": 108,
     "timeDay": 108,
     "timeWeek": 108,
     "timeMonth": 108,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2026-02-21": 2
+      "2026-02-21": 17
     }
   },
   {
@@ -1041,11 +1041,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sky-of-use.net.ico",
     "slug": "sky-of-usenet",
     "status": "up",
-    "uptime": "5.02%",
-    "uptimeDay": "5.02%",
-    "uptimeWeek": "5.02%",
-    "uptimeMonth": "5.02%",
-    "uptimeYear": "5.02%",
+    "uptime": "33.55%",
+    "uptimeDay": "33.55%",
+    "uptimeWeek": "33.55%",
+    "uptimeMonth": "33.55%",
+    "uptimeYear": "33.55%",
     "time": 96,
     "timeDay": 96,
     "timeWeek": 96,
@@ -1115,18 +1115,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/usenetbrowser.net.ico",
     "slug": "usenet-browser",
     "status": "up",
-    "uptime": "4.37%",
-    "uptimeDay": "4.37%",
-    "uptimeWeek": "4.37%",
-    "uptimeMonth": "4.37%",
-    "uptimeYear": "4.37%",
+    "uptime": "3.06%",
+    "uptimeDay": "3.06%",
+    "uptimeWeek": "3.06%",
+    "uptimeMonth": "3.06%",
+    "uptimeYear": "3.06%",
     "time": 452,
     "timeDay": 452,
     "timeWeek": 452,
     "timeMonth": 452,
     "timeYear": 452,
     "dailyMinutesDown": {
-      "2026-02-21": 33
+      "2026-02-21": 48
     }
   },
   {
@@ -1171,11 +1171,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wtfnzb.pw.ico",
     "slug": "wtfnzb",
     "status": "up",
-    "uptime": "3.26%",
-    "uptimeDay": "3.26%",
-    "uptimeWeek": "3.26%",
-    "uptimeMonth": "3.26%",
-    "uptimeYear": "3.26%",
+    "uptime": "33.28%",
+    "uptimeDay": "33.28%",
+    "uptimeWeek": "33.28%",
+    "uptimeMonth": "33.28%",
+    "uptimeYear": "33.28%",
     "time": 57,
     "timeDay": 57,
     "timeWeek": 57,
