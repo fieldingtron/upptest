@@ -20,16 +20,16 @@ sites:
   - name: abnzb
     url: https://abnzb.com/login
     __slug: /abnzb-review/
+    type: globalping
     method: GET
     headers:
-      - key: "User-Agent"
-        value: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-    maxResponseTime: 10000
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    maxResponseTime: "10000"
     expectedStatusCodes:
-      - 200
-      - 301
-      - 302
-    body: "abnzb"
+      - "200"
+      - "301"
+      - "302"
+      - "403"
   - name: althub
     url: https://althub.co.za
     __slug: /althub-review/
@@ -55,6 +55,7 @@ sites:
     url: https://www.brothers-of-usenet.net/
     __slug: /brothers-of-usenet-review/
     type: globalping
+    check: "tcp-ping"
   - name: dognzb
     url: https://dognzb.cr/login
     __slug: /dognzb-review/
@@ -74,12 +75,14 @@ sites:
     __slug: /fileleechers-review/
   - name: FileSharingTalk
     url: https://filesharingtalk.com/nzbs/
-    __slug: N/A
+    __slug: "N/A"
     type: globalping
+    check: "tcp-ping"
   - name: findnzb
     url: http://findnzb.net/
     __slug: /findnzb-review/
     type: globalping
+    check: "tcp-ping"
   - name: gingadaddy
     url: https://www.gingadaddy.com
     __slug: /gingadaddy-review/
@@ -94,10 +97,10 @@ sites:
     __slug: /miatrix-review/
   - name: newz-complex
     url: https://newz-complex.org/
-    __slug: N/A
+    __slug: "N/A"
   - name: newzfinders
     url: http://en.newzfinders.com/
-    __slug: N/A
+    __slug: "N/A"
   - name: newznzb
     url: https://newznzb.info/
     __slug: /newznzb-review/
@@ -114,7 +117,7 @@ sites:
     __slug: /nzbnation-review/
   - name: NZB Su
     url: https://www.nzb.su/
-    __slug: N/A
+    __slug: "N/A"
     type: globalping
   - name: nzbwolf
     url: https://nzbwolf.com/
@@ -124,6 +127,7 @@ sites:
     __slug: /nzbcat-review/
     type: globalping
     check: "tcp-ping"
+    port: "443"
   - name: nzbcave
     url: https://www.nzbcave.co.uk/v3/index.php
     __slug: /nzbcave-review/
@@ -136,7 +140,7 @@ sites:
     __slug: /nzbforyou-review/
   - name: NZBFriends
     url: http://nzbfriends.com/
-    __slug: N/A
+    __slug: "N/A"
     type: globalping
   - name: nzbgeek
     url: https://nzbgeek.info
@@ -144,7 +148,7 @@ sites:
     type: globalping
   - name: NZBGrabit
     url: https://www.nzbgrabit.org/forum.php
-    __slug: N/A
+    __slug: "N/A"
     type: globalping
   - name: nzbhunter
     url: https://nzbhunter.com/
@@ -153,12 +157,13 @@ sites:
     url: https://nzbid.net/
     __slug: /nzb-id-review/
     type: globalping
+    check: "tcp-ping"
   - name: nzbindex
     url: https://www.nzbindex.com/search
     __slug: /nzbindex-review/
   - name: NZBIndex.nl
     url: https://nzbindex.nl/
-    __slug: N/A
+    __slug: "N/A"
   - name: nzbnewzfrance
     url: https://www.nzbnewzfrance.ninja/
     __slug: /nzbnewzfrance-review/
@@ -169,7 +174,7 @@ sites:
     type: globalping
   - name: nzbplanet
     url: https://nzbplanet.net/
-    __slug: N/A
+    __slug: "N/A"
     type: globalping
   - name: nzbs2go
     url: https://nzbs2go.com/login
@@ -202,6 +207,7 @@ sites:
     url: https://www.oznzb.com
     __slug: /oznzb-review/
     type: globalping
+    check: "tcp-ping"
   - name: pourcesoir
     url: https://pourcesoir.in/
     __slug: /pourcesoir-review/
@@ -210,24 +216,24 @@ sites:
     __slug: /scenenzbs-review/
   - name: Sky of Usenet
     url: https://sky-of-use.net/index.php?login/&url=https%3A%2F%2Fsky-of-use.net%2F
-    __slug: N/A
+    __slug: "N/A"
     type: globalping
   - name: tabula-rasa
     url: https://www.tabula-rasa.pw
     __slug: /tabula-rasa-review/
   - name: The Hive
     url: http://www.the-hive.be/forum/
-    __slug: N/A
+    __slug: "N/A"
   - name: Usenet Hub
     url: http://usenethub.com/
-    __slug: N/A
+    __slug: "N/A"
   - name: UsenetBrowser
     url: https://usenetbrowser.net/
-    __slug: N/A
+    __slug: "N/A"
     type: globalping
   - name: usenetcrawler
     url: http://usenet-crawler.com
-    __slug: N/A
+    __slug: "N/A"
   - name: usenethd
     url: https://www.usenethd.li/login/
     __slug: /usenethd-review/
@@ -239,6 +245,7 @@ sites:
     url: https://spots.xenetix.nl/spotweb/
     __slug: /spots-xenetix-nl-review/
     type: globalping
+    check: "tcp-ping"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
