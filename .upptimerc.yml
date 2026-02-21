@@ -17,41 +17,45 @@ sites:
     port: 80
     check: "tcp-ping"
     ipv6: true
-  - name: abNZB
+  - name: abnzb
     url: https://abnzb.com/login
     __slug: /abnzb-review/
-  - name: AltHUB
+    type: globalping
+  - name: althub
     url: https://althub.co.za
     __slug: /althub-review/
-  - name: BinnewZ
+  - name: binnewz
     url: https://www.forum.binnews.ninja/
     __slug: /binnewz-review/
-  - name: Binsearch
+    type: globalping
+  - name: binsearch
     url: https://binsearch.info/
     __slug: /binsearch-review/
-  - name: Binzb
+  - name: binzb
     url: http://binzb.com/
     __slug: /binzb-review/
-  - name: Birds of Binaries
+  - name: birds-of-binaries
     url: https://birds-of-binaries.com/forum/index.php?dashboard/
     __slug: /birds-of-binaries-review/
-  - name: BluRayNZB
+  - name: bluraynzb
     url: https://www.bluraynzb.org/
     __slug: /bluraynzb-review/
-  - name: Brothers of Usenet
+  - name: brothers-of-usenet
     url: https://www.brothers-of-usenet.net/
     __slug: /brothers-of-usenet-review/
-  - name: DogNZB
+    type: globalping
+  - name: dognzb
     url: https://dognzb.cr/login
     __slug: /dognzb-review/
-  - name: DrunkenSlug
+    type: globalping
+  - name: drunken-slug
     url: https://drunkenslug.com/
     __slug: /drunken-slug-review/
     type: globalping
   - name: easy-leech
     url: https://easy-leech.to/
     __slug: /easy-leech-review/
-  - name: EliteNZB
+  - name: elitenzb
     url: https://www.elitenzb.info/
     __slug: /elitenzb-review/
   - name: fileleechers
@@ -60,19 +64,21 @@ sites:
   - name: FileSharingTalk
     url: https://filesharingtalk.com/nzbs/
     __slug: N/A
-  - name: FindNZB
+    type: globalping
+  - name: findnzb
     url: http://findnzb.net/
     __slug: /findnzb-review/
-  - name: GingaDaddy
+    type: globalping
+  - name: gingadaddy
     url: https://www.gingadaddy.com
     __slug: /gingadaddy-review/
-  - name: Headphones VIP
+  - name: headphones-vip
     url: https://headphones.codeshy.com/vip/
     __slug: /headphones-vip-review/
-  - name: House of Usenet
+  - name: house-of-usenet
     url: https://house-of-usenet.com/login
     __slug: /house-of-usenet-review/
-  - name: Miatrix
+  - name: miatrix
     url: https://www.miatrix.com
     __slug: /miatrix-review/
   - name: newz-complex
@@ -84,97 +90,117 @@ sites:
   - name: newznzb
     url: https://newznzb.info/
     __slug: /newznzb-review/
-  - name: NinjaCentral
+    type: globalping
+  - name: ninjacentral
     url: http://ninjacentral.co.za/
     __slug: /ninjacentral-review/
-  - name: NZBKing
+    type: globalping
+  - name: nzbking
     url: http://www.nzbking.com/
     __slug: /nzbking-review/
-  - name: NZBNation
+  - name: nzbnation
     url: http://nzbnation.com/
     __slug: /nzbnation-review/
   - name: NZB Su
     url: https://www.nzb.su/
     __slug: N/A
-  - name: NZBWolf
+    type: globalping
+  - name: nzbwolf
     url: https://nzbwolf.com/
     __slug: /nzbwolf-review/
-  - name: NZBCat
+  - name: nzbcat
     url: https://nzb.cat
     __slug: /nzbcat-review/
+    type: globalping
   - name: nzbcave
     url: https://www.nzbcave.co.uk/v3/index.php
     __slug: /nzbcave-review/
-  - name: NZBFinder
+  - name: nzbfinder
     url: https://nzbfinder.ws/
     __slug: /nzbfinder-review/
-  - name: NZBForYou
+    type: globalping
+  - name: nzbforyou
     url: https://www.nzbforyou.com/
     __slug: /nzbforyou-review/
   - name: NZBFriends
     url: http://nzbfriends.com/
     __slug: N/A
-  - name: NZBgeek
+    type: globalping
+  - name: nzbgeek
     url: https://nzbgeek.info
-    __slug: /nzbgeek-review/
+    __slug: /nz-bgeek-review/
+    type: globalping
   - name: NZBGrabit
     url: https://www.nzbgrabit.org/forum.php
     __slug: N/A
-  - name: NZBHunter
+    type: globalping
+  - name: nzbhunter
     url: https://nzbhunter.com/
     __slug: /nzbhunter-review/
-  - name: nzb ID
+  - name: nzb-id
     url: https://nzbid.net/
     __slug: /nzb-id-review/
-  - name: NZBIndex.com
+    type: globalping
+  - name: nzbindex
     url: https://www.nzbindex.com/search
     __slug: /nzbindex-review/
   - name: NZBIndex.nl
     url: https://nzbindex.nl/
     __slug: N/A
-  - name: NZBNewzFrance
+  - name: nzbnewzfrance
     url: https://www.nzbnewzfrance.ninja/
     __slug: /nzbnewzfrance-review/
-  - name: NzbNoob
+    type: globalping
+  - name: nzbnoob
     url: https://nzbnoob.com
     __slug: /nzbnoob-review/
+    type: globalping
   - name: nzbplanet
     url: https://nzbplanet.net/
     __slug: N/A
-  - name: NZBs2GO
+    type: globalping
+  - name: nzbs2go
     url: https://nzbs2go.com/login
     __slug: /nzbs2go-review/
+    type: globalping
   - name: nzbscc
     url: https://nzbs.cc/
     __slug: /nzbscc-review/
-  - name: NZBScout
+    type: globalping
+  - name: nzbscout
     url: https://nzbscout.com/
     __slug: /nzbscout-review/
-  - name: NZBServer
+    type: globalping
+  - name: nzbserver
     url: http://www.nzbserver.com
     __slug: /nzbserver-review/
-  - name: NZBStars
+    type: globalping
+  - name: nzbstars
     url: https://www.nzbstars.com/
     __slug: /nzbstars-review/
+    type: globalping
   - name: nzbxs
     url: https://www.nzbxs.com/
     __slug: /nzbxs-review/
-  - name: OmgWtfNZBs
+  - name: omgwtfnzbs
     url: https://omgwtfnzbs.me/login
     __slug: /omgwtfnzbs-review/
-  - name: OzNZB
+    type: globalping
+  - name: oznzb
     url: https://www.oznzb.com
     __slug: /oznzb-review/
-  - name: PourCeSoir
+    type: globalping
+  - name: pourcesoir
     url: https://pourcesoir.in/
     __slug: /pourcesoir-review/
-  - name: SceneNZBs
+  - name: scenenzbs
     url: https://scenenzbs.com/
     __slug: /scenenzbs-review/
   - name: Sky of Usenet
     url: https://sky-of-use.net/index.php?login/&url=https%3A%2F%2Fsky-of-use.net%2F
     __slug: N/A
-  - name: Tabula Rasa
+    type: globalping
+  - name: tabula-rasa
     url: https://www.tabula-rasa.pw
     __slug: /tabula-rasa-review/
   - name: The Hive
@@ -186,18 +212,21 @@ sites:
   - name: UsenetBrowser
     url: https://usenetbrowser.net/
     __slug: N/A
+    type: globalping
   - name: usenetcrawler
     url: http://usenet-crawler.com
     __slug: N/A
-  - name: UsenetHD
+  - name: usenethd
     url: https://www.usenethd.li/login/
     __slug: /usenethd-review/
   - name: wtfnzb
     url: http://wtfnzb.pw/
     __slug: /wtfnzb-review/
-  - name: Xenetix
+    type: globalping
+  - name: spots-xenetix-nl
     url: https://spots.xenetix.nl/spotweb/
     __slug: /spots-xenetix-nl-review/
+    type: globalping
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
