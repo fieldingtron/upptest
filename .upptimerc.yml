@@ -150,6 +150,15 @@ sites:
     url: https://www.nzbgrabit.org/forum.php
     __slug: "N/A"
     type: globalping
+    method: GET
+    headers:
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    maxResponseTime: "10000"
+    expectedStatusCodes:
+      - "200"
+      - "301"
+      - "302"
+      - "403"
   - name: nzbhunter
     url: https://nzbhunter.com/
     __slug: /nzbhunter-review/
@@ -203,11 +212,6 @@ sites:
     url: https://omgwtfnzbs.me/login
     __slug: /omgwtfnzbs-review/
     type: globalping
-  - name: oznzb
-    url: https://www.oznzb.com
-    __slug: /oznzb-review/
-    type: globalping
-    check: "tcp-ping"
   - name: pourcesoir
     url: https://pourcesoir.in/
     __slug: /pourcesoir-review/
@@ -227,10 +231,6 @@ sites:
   - name: Usenet Hub
     url: http://usenethub.com/
     __slug: "N/A"
-  - name: UsenetBrowser
-    url: https://usenetbrowser.net/
-    __slug: "N/A"
-    type: globalping
   - name: usenetcrawler
     url: http://usenet-crawler.com
     __slug: "N/A"
