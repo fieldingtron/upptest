@@ -22,7 +22,7 @@ sites:
   - name: UsenetCrawler
     url: https://www.usenet-crawler.com
   - name: NZBgeek
-    url: https://nzbgeek.info
+    url: $NZBGEEK_URL
   - name: DrunkenSlug
     url: https://drunkenslug.com
     type: globalping
