@@ -1,7 +1,7 @@
 url: https://newz-complex.org/
-status: up
-code: 200
-responseTime: 942
-lastUpdated: 2026-02-21T23:52:18.045Z
+status: down
+code: 429
+responseTime: 728
+lastUpdated: 2026-02-22T08:56:28.366Z
 startTime: 2026-02-21T04:43:42.145Z
 generator: Upptime <https://github.com/upptime/upptime>
