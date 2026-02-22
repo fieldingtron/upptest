@@ -1190,25 +1190,5 @@
       "2026-02-22": 29,
       "2026-02-21": 32
     }
-  },
-  {
-    "name": "spots-xenetix-nl",
-    "url": "https://spots.xenetix.nl/spotweb/",
-    "icon": "https://icons.duckduckgo.com/ip3/spots.xenetix.nl.ico",
-    "slug": "spots-xenetix-nl",
-    "status": "up",
-    "uptime": "98.40%",
-    "uptimeDay": "97.99%",
-    "uptimeWeek": "98.40%",
-    "uptimeMonth": "98.40%",
-    "uptimeYear": "98.40%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-02-22": 29
-    }
   }
 ]

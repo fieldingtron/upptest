@@ -241,12 +241,6 @@ sites:
     url: http://wtfnzb.pw/
     __slug: /wtfnzb-review/
     type: globalping
-  - name: spots-xenetix-nl
-    url: https://spots.xenetix.nl/spotweb/
-    __slug: /spots-xenetix-nl-review/
-    type: globalping
-    check: "tcp-ping"
-
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
