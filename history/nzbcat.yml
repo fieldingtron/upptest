@@ -1,7 +1,7 @@
 url: https://nzb.cat
-status: up
-code: 200
+status: down
+code: 403
 responseTime: 0
-lastUpdated: 2026-02-23T23:15:58.987Z
+lastUpdated: 2026-02-24T20:17:46.901Z
 startTime: 2026-02-21T05:17:18.609Z
 generator: Upptime <https://github.com/upptime/upptime>
