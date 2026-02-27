@@ -1,7 +1,7 @@
 url: https://birds-of-binaries.com/forum/index.php?dashboard/
-status: up
-code: 200
-responseTime: 809
-lastUpdated: 2026-02-26T23:11:04.522Z
+status: down
+code: 429
+responseTime: 663
+lastUpdated: 2026-02-27T07:33:47.133Z
 startTime: 2026-02-21T04:43:14.063Z
 generator: Upptime <https://github.com/upptime/upptime>
