@@ -1,7 +1,7 @@
 url: https://nzbplanet.net/
-status: down
-code: 403
-responseTime: 0
-lastUpdated: 2026-03-01T17:52:47.947Z
+status: up
+code: 200
+responseTime: 99
+lastUpdated: 2026-03-01T18:11:22.289Z
 startTime: 2026-02-21T04:44:55.108Z
 generator: Upptime <https://github.com/upptime/upptime>
