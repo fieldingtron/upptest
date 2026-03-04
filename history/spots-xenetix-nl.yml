@@ -1,7 +1,7 @@
 url: https://spots.xenetix.nl/spotweb/
-status: up
-code: 200
+status: down
+code: 403
 responseTime: 0
-lastUpdated: 2026-03-04T01:15:07.716Z
+lastUpdated: 2026-03-04T03:58:58.044Z
 startTime: 2026-02-21T05:19:24.198Z
 generator: Upptime <https://github.com/upptime/upptime>
