@@ -1,7 +1,7 @@
 url: http://usenet-crawler.com
-status: down
-code: 500
-responseTime: 1149
-lastUpdated: 2026-03-05T07:33:01.199Z
+status: up
+code: 200
+responseTime: 779
+lastUpdated: 2026-03-05T08:21:52.386Z
 startTime: 2026-02-21T04:47:23.343Z
 generator: Upptime <https://github.com/upptime/upptime>
